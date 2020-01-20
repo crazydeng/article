@@ -11,3 +11,4 @@
 * [rust](rust_learning/README.md)
 * [fitness](fitness/README.md)
 * [travel](travel/README.md)
+* [read_log](read_log/README.md)
